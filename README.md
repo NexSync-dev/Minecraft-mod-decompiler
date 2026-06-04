@@ -7,3 +7,4 @@ wait and done.
 it will auto detect what version it is running(not the best detection but doesnt really matter too much),will auto create and download all the things it needs and will spit out the fully decompiled mod in the "output" directory
 
 usecases are uh pretty much anything
+FABRIC ONLY FOR NOW
