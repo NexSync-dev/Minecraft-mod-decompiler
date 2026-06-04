@@ -8,3 +8,7 @@ it will auto detect what version it is running(not the best detection but doesnt
 
 usecases are uh pretty much anything
 FABRIC ONLY FOR NOW
+
+
+why did i make this?
+i hate closed source mods.
